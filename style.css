@@ -26,6 +26,10 @@ body{
     border-radius: 10px;
 }
 
+.audio-alt{
+    display: none;
+}
+
 .meaning-container{
     display: none;
 }
